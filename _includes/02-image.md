@@ -1,0 +1,2 @@
+Replace this with an image, like your photo. Ensure you include some alt-text.
+![photo](https://www.shutterstock.com/image-photo/bright-spring-view-cameo-island-picturesque-1048185397?id=1048185397&irclickid=0wm0cYwaUxyLRyOwUx0Mo3EqUkERRCyX5wEdV00&irgwc=1&utm_medium=Affiliate&utm_campaign=Elevated%20Logic%2C%20LLC&utm_source=426523&utm_term=STOCKSNAP_SEARCH-NORMAL_API&c3ch=Affiliate&c3nid=IR-426523)
